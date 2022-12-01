@@ -1,0 +1,34 @@
+
+
+Make "jobs" section to display the jobs, using the same logic to display products
+
+finish signIn function and continue to work in the proyect
+chech on validatepass -- undesrtand why is not giving me the message from database. 
+
+
+
+Build the differents layouts and desing pages
+
+
+Make an input form for products and use props to do the job
+
+
+*** I gess I don´t need this
+
+Understand the use of token, to identify different users and apply this on proyect - global var and destructure (desestructurar) - 
+
+*** I think the following is done, just leave it to check it later. 
+
+Logics on permits
+Admin should be the only one able to create products, edit and delete products
+
+User should be able to see products as well as the admin
+
+Admin should be the only one capable to create an admin
+
+User can create an User and edit their own profile, (add an activated, unactivated mode.)
+
+
+'Bearer' eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzODEwZWYwYTE5MmU5NzNiNTIzYTZiNyIsImlhdCI6MTY2OTQwMjM1Mn0.L4Gv9fq-lcShRm8mI5tZYv9GLTkzDpp0354c3sgASQI
+
+
